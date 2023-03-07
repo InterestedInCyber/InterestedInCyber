@@ -7,7 +7,6 @@ I'm Bobby, just another curious person on Github interested in Cyber Security, P
 - C#
 - Go
 - Networking
-- Application Security
 
 ***
 
